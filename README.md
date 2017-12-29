@@ -6,7 +6,7 @@
 
 `git clone https://github.com/aniekanoffiong/react-voting-app.git`
 
-1. Change directory directory and install dependencies
+2. Change directory directory and install dependencies
 
 `cd react-voting-app`
 
@@ -15,9 +15,9 @@ Using NPM
 or Yarn
 `yarn` or `yarn install`
 
-1. Start the development server and go to localhost:3000 to view the app
+3. Start the development server and go to localhost:3000 to view the app
 
-Using NPM
+Using NPM 
 `npm start`
 or Yarn
 `yarn start`
